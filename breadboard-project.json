@@ -1,0 +1,27 @@
+{
+  "format": "velxio-project",
+  "version": 1,
+  "boards": [
+    {
+      "id": "esp32",
+      "boardKind": "esp32",
+      "x": 80,
+      "y": 80,
+      "activeFileGroupId": "group-esp32",
+      "languageMode": "arduino",
+      "serialBaudRate": 0
+    }
+  ],
+  "fileGroups": {
+    "group-esp32": [
+      {
+        "name": "sketch.ino",
+        "content": ""
+      }
+    ]
+  },
+  "components": [],
+  "wires": [],
+  "activeBoardId": "esp32",
+  "ignoreStock": false
+}
