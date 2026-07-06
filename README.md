@@ -2,10 +2,12 @@
 
 
 
+![ferrgrg](https://breadboard.hackclub.com/api/uploads/project-screenshots/gn9vDedcvpldlG4ZTIJrOp1XxmDSUz0R/46/85624ea2-ffd6-47d1-8820-8a62ecfdd80e.png)
+
 rgrgrgrg
 
 
-> Built in [Breadboard](https://breadboard.hackclub.com), a Hack Club program. This project took ~1.4 hours of work.
+> Built in [Breadboard](https://breadboard.hackclub.com), a Hack Club program. This project took ~1.8 hours of work.
 
 
 
@@ -18,8 +20,6 @@ v e  e ef r r rrr
 
 - **Try it:** [https://breadboard.hackclub.com/share/46](https://breadboard.hackclub.com/share/46)
 
-![ferrgrg screenshot](/api/uploads/project-screenshots/gn9vDedcvpldlG4ZTIJrOp1XxmDSUz0R/46/85624ea2-ffd6-47d1-8820-8a62ecfdd80e.png)
-
 
 ## Schematic
 
@@ -28,8 +28,10 @@ The editor snapshot is in `breadboard-project.json`.
 
 ## Bill of Materials
 
-- photoresistor-sensor: 1
-- ssd1306-i2c: 1
+| Part | Quantity |
+| --- | --- |
+| photoresistor-sensor | 1 |
+| ssd1306-i2c | 1 |
 
 
 ## Firmware
@@ -46,7 +48,7 @@ Build journal entries are kept in [`journals.md`](journals.md).
 
 
 
-*Made in [Breadboard](https://breadboard.hackclub.com) — 1.4h of work*
+*Made in [Breadboard](https://breadboard.hackclub.com) — 1.8h of work*
 
 
 
