@@ -5,8 +5,8 @@
     {
       "id": "esp32",
       "boardKind": "esp32",
-      "x": 80,
-      "y": 80,
+      "x": 80.2,
+      "y": 79.60000000000002,
       "activeFileGroupId": "group-esp32",
       "languageMode": "arduino",
       "serialBaudRate": 0
@@ -20,7 +20,27 @@
       }
     ]
   },
-  "components": [],
+  "components": [
+    {
+      "id": "photoresistor_sensor_1783227153374_0s70hr5uy",
+      "metadataId": "photoresistor-sensor",
+      "x": 253.0689399011107,
+      "y": 78.44890147874833,
+      "properties": {
+        "ledDO": false,
+        "ledPower": false
+      }
+    },
+    {
+      "id": "ssd1306_i2c_1783298446394_xcmihvn28",
+      "metadataId": "ssd1306-i2c",
+      "x": -183.2868272436483,
+      "y": -91.67458935795943,
+      "properties": {
+        "protocol": "i2c"
+      }
+    }
+  ],
   "wires": [],
   "activeBoardId": "esp32",
   "ignoreStock": false
