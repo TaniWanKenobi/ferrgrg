@@ -5,13 +5,13 @@
 rgrgrgrg
 
 
-> Built in [Breadboard](https://breadboard.hackclub.com), a Hack Club program. This project took ~1 hours of work.
+> Built in [Breadboard](https://breadboard.hackclub.com), a Hack Club program. This project took ~1.4 hours of work.
 
 
 
 ## How To Use It
 
-v e  e ef
+v e  e ef r r rrr
 
 
 ## Demo
@@ -28,7 +28,8 @@ The editor snapshot is in `breadboard-project.json`.
 
 ## Bill of Materials
 
-- Kit parts are listed in the editor schematic.
+- photoresistor-sensor: 1
+- ssd1306-i2c: 1
 
 
 ## Firmware
@@ -45,7 +46,7 @@ Build journal entries are kept in [`journals.md`](journals.md).
 
 
 
-*Made in [Breadboard](https://breadboard.hackclub.com) — 1h of work*
+*Made in [Breadboard](https://breadboard.hackclub.com) — 1.4h of work*
 
 
 
