@@ -2,13 +2,21 @@
 
 
 
-![ferrgrg](https://breadboard.hackclub.com/api/uploads/project-screenshots/gn9vDedcvpldlG4ZTIJrOp1XxmDSUz0R/46/85624ea2-ffd6-47d1-8820-8a62ecfdd80e.png)
+![ferrgrg](screenshot.png)
+
+
+> Built in [Breadboard](https://breadboard.hackclub.com), a Hack Club program. This project took ~1.9 hours of work.
+
+
+
+## What It Does
 
 rgrgrgrg
 
 
-> Built in [Breadboard](https://breadboard.hackclub.com), a Hack Club program. This project took ~1.8 hours of work.
+## How It Works
 
+The circuit is captured in `breadboard-project.json`, and the firmware that runs it is in the `firmware/` folder.
 
 
 ## How To Use It
@@ -18,7 +26,8 @@ v e  e ef r r rrr
 
 ## Demo
 
-- **Try it:** [https://breadboard.hackclub.com/share/46](https://breadboard.hackclub.com/share/46)
+- **Simulate it live:** [https://breadboard.hackclub.com/share/46](https://breadboard.hackclub.com/share/46), runs the firmware in the Breadboard simulator
+- **View the design:** [https://taniwankenobi.github.io/breadboard-plays/p/46/](https://taniwankenobi.github.io/breadboard-plays/p/46/)
 
 
 ## Schematic
@@ -48,7 +57,7 @@ Build journal entries are kept in [`journals.md`](journals.md).
 
 
 
-*Made in [Breadboard](https://breadboard.hackclub.com) — 1.8h of work*
+*Made in [Breadboard](https://breadboard.hackclub.com) — 1.9h of work*
 
 
 
